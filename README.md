@@ -63,3 +63,19 @@ Next Steps
 * Build a Recommendation System (Collaborative Filtering / SVD)
 * Create an interactive dashboard in Tableau or Power BI
 * Deploy as a data portfolio project on GitHub
+
+
+  ---
+  Screenshots
+  ### Distribution of Ratings
+![Distribution of Ratings](Distribution_Ratings.jpg)
+
+### Number of Reviews Per Year
+![Number of Reviews](Number_of_Reviews.png)
+
+### Average Rating Over Years
+![Average Rating](Average_Rating.png)
+
+### Customer Segmentation
+![Customer Segmentation](Customer_Segmentation.png)
+
