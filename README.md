@@ -67,15 +67,9 @@ Next Steps
 
   ---
   Screenshots
-  ### Distribution of Ratings
-![Distribution of Ratings](DistributionRatings.jpg)
+![Average Rating](average_rating.png)
+![Number of Reviews](number_of_reviews.png)
+![Distribution of Ratings](distribution_ratings.jpg)
+![Customer Segmentation](customer_segmentation.png)
 
-### Number of Reviews Per Year
-![Number of Reviews](Number_of_Reviews.png)
-
-### Average Rating Over Years
-![Average Rating](Average  Rating.png)
-
-### Customer Segmentation
-![Customer Segmentation](Customer_Segmentation.png)
 
