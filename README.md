@@ -67,9 +67,8 @@ Next Steps
 
   ---
   Screenshots
-![Average Rating](average_rating.png)
-![Number of Reviews](number_of_reviews.png)
-![Distribution of Ratings](distribution_ratings.jpg)
-![Customer Segmentation](customer_segmentation.png)
-
+![Distribution of Ratings](Distribution_Ratings.jpg)
+![Number of Reviews](Number_of_Reviews.png)
+![Average Rating](Average_Rating.png)
+![Customer Segmentation](Customer_Segmentation.png)
 
